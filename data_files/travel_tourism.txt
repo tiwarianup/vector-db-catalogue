@@ -1,0 +1,169 @@
+document_1 = Document(
+    page_content="Popular European cities are seeing a resurgence in tourism as international travel picks up.",
+    metadata={
+        "Domain": "Travel and Tourism",
+        "Topic": "International Travel",
+        "Category": "Tourism Trends",
+        "Published Date": "2023-09-23",
+        "Source": "Travel World News",
+        "Author": "Sarah Cole",
+        "Tags": ["Tourism", "Europe"],
+        "Keywords": ["travel trends", "Europe"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=1
+)
+
+document_2 = Document(
+    page_content="Eco-friendly travel destinations are gaining attention as travelers seek sustainable experiences.",
+    metadata={
+        "Domain": "Travel and Tourism",
+        "Topic": "Eco-tourism",
+        "Category": "Sustainability",
+        "Published Date": "2023-09-29",
+        "Source": "Green Travel Guide",
+        "Author": "Brian Chen",
+        "Tags": ["Eco-tourism", "Sustainability"],
+        "Keywords": ["sustainable travel", "eco-friendly destinations"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=2
+)
+
+document_3 = Document(
+    page_content="Virtual reality tours offer immersive experiences of distant locations and historical sites.",
+    metadata={
+        "Domain": "Travel and Tourism",
+        "Topic": "Virtual Tourism",
+        "Category": "Technology",
+        "Published Date": "2023-10-01",
+        "Source": "Travel Tech Innovator",
+        "Author": "Mia Kwan",
+        "Tags": ["VR Tourism", "Innovation"],
+        "Keywords": ["virtual reality", "tourism"],
+        "Language": "English",
+        "Sentiment": "Neutral"
+    },
+    id=3
+)
+
+document_4 = Document(
+    page_content="Airlines are increasing flights to popular destinations as travel demand surges post-pandemic.",
+    metadata={
+        "Domain": "Travel and Tourism",
+        "Topic": "Air Travel",
+        "Category": "Demand",
+        "Published Date": "2023-09-26",
+        "Source": "Aviation News Today",
+        "Author": "Sarah Cole",
+        "Tags": ["Airlines", "Travel Demand"],
+        "Keywords": ["flights", "post-pandemic travel"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=4
+)
+
+document_5 = Document(
+    page_content="Travel bloggers share their top tips for budget-friendly travel and finding hidden gems.",
+    metadata={
+        "Domain": "Travel and Tourism",
+        "Topic": "Travel Tips",
+        "Category": "Budget Travel",
+        "Published Date": "2023-09-28",
+        "Source": "Travel Inspiration",
+        "Author": "Alex Diaz",
+        "Tags": ["Budget Travel", "Secrets"],
+        "Keywords": ["travel tips", "hidden gems"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=5
+)
+
+document_6 = Document(
+    page_content="Cultural festivals around the world attract tourists seeking immersive local experiences.",
+    metadata={
+        "Domain": "Travel and Tourism",
+        "Topic": "Cultural Events",
+        "Category": "Experiences",
+        "Published Date": "2023-09-25",
+        "Source": "Culture Travel Guide",
+        "Author": "Brian Chen",
+        "Tags": ["Festivals", "Culture"],
+        "Keywords": ["cultural festivals", "local experiences"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=6
+)
+
+document_7 = Document(
+    page_content="Increased interest in adventure travel is leading to new tour offerings and excursions.",
+    metadata={
+        "Domain": "Travel and Tourism",
+        "Topic": "Adventure Travel",
+        "Category": "Tourism Trends",
+        "Published Date": "2023-10-02",
+        "Source": "Adventure Travel Times",
+        "Author": "Mia Kwan",
+        "Tags": ["Adventure", "Tours"],
+        "Keywords": ["adventure travel", "excursions"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=7
+)
+
+document_8 = Document(
+    page_content="Digital nomads are choosing destinations with excellent internet and lifestyle amenities.",
+    metadata={
+        "Domain": "Travel and Tourism",
+        "Topic": "Remote Work",
+        "Category": "Digital Nomads",
+        "Published Date": "2023-09-27",
+        "Source": "Nomad Life Journal",
+        "Author": "Alex Diaz",
+        "Tags": ["Remote Work", "Destinations"],
+        "Keywords": ["digital nomads", "remote work travel"],
+        "Language": "English",
+        "Sentiment": "Neutral"
+    },
+    id=8
+)
+
+document_9 = Document(
+    page_content="Luxury travel markets are adapting luxurious accommodations with a focus on personalized experiences.",
+    metadata={
+        "Domain": "Travel and Tourism",
+        "Topic": "Luxury Travel",
+        "Category": "Personalization",
+        "Published Date": "2023-10-04",
+        "Source": "Luxury Travel Review",
+        "Author": "Sarah Cole",
+        "Tags": ["Luxury", "Personalized Experiences"],
+        "Keywords": ["luxury travel", "personalization"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=9
+)
+
+document_10 = Document(
+    page_content="Tourists are being encouraged to participate in local conservation efforts as part of eco-travel.",
+    metadata={
+        "Domain": "Travel and Tourism",
+        "Topic": "Conservation",
+        "Category": "Sustainability",
+        "Published Date": "2023-09-22",
+        "Source": "Eco Travel Journal",
+        "Author": "Brian Chen",
+        "Tags": ["Conservation", "Tourism"],
+        "Keywords": ["eco-travel", "conservation"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=10
+)

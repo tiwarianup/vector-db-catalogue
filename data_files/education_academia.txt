@@ -1,0 +1,203 @@
+document_1 = Document(
+    page_content="Remote learning continues to reshape educational landscapes, prompting increased use of digital tools.",
+    metadata={
+        "Domain": "Education and Academia",
+        "Topic": "Remote Learning",
+        "Category": "Digital Education",
+        "Published Date": "2023-09-22",
+        "Source": "Education Insights",
+        "Author": "Benjamin Turner",
+        "Tags": ["Remote Learning", "Digital Tools"],
+        "Keywords": ["remote education", "e-learning"],
+        "Language": "English",
+        "Sentiment": "Neutral"
+    },
+    id=1
+)
+
+document_2 = Document(
+    page_content="STEM education initiatives are expanding, encouraging more students to pursue science and technology careers.",
+    metadata={
+        "Domain": "Education and Academia",
+        "Topic": "STEM Education",
+        "Category": "Career Development",
+        "Published Date": "2023-10-01",
+        "Source": "STEM Education Today",
+        "Author": "Linda Gomez",
+        "Tags": ["STEM", "Careers"],
+        "Keywords": ["STEM initiatives", "technology education"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=2
+)
+
+document_3 = Document(
+    page_content="Higher education institutions are facing challenges from declining enrollment amid shifting student priorities.",
+    metadata={
+        "Domain": "Education and Academia",
+        "Topic": "Higher Education",
+        "Category": "Enrollment",
+        "Published Date": "2023-09-27",
+        "Source": "University Review",
+        "Author": "Andrew Thompson",
+        "Tags": ["Higher Education", "Enrollment"],
+        "Keywords": ["college enrollment", "student priorities"],
+        "Language": "English",
+        "Sentiment": "Concerned"
+    },
+    id=3
+)
+
+document_4 = Document(
+    page_content="Inclusive teaching methods are being adopted to accommodate diverse student learning needs.",
+    metadata={
+        "Domain": "Education and Academia",
+        "Topic": "Inclusive Education",
+        "Category": "Teaching Methods",
+        "Published Date": "2023-10-03",
+        "Source": "Teaching Insights",
+        "Author": "Linda Gomez",
+        "Tags": ["Inclusive Education", "Diversity"],
+        "Keywords": ["inclusive teaching", "diverse learning"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=4
+)
+
+document_5 = Document(
+    page_content="Teachers are increasingly using technology to personalize student learning experiences and improve outcomes.",
+    metadata={
+        "Domain": "Education and Academia",
+        "Topic": "EdTech",
+        "Category": "Personalized Learning",
+        "Published Date": "2023-09-28",
+        "Source": "EdTech Updates",
+        "Author": "Benjamin Turner",
+        "Tags": ["Technology", "Personalized Learning"],
+        "Keywords": ["edtech", "learning outcomes"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=5
+)
+
+document_6 = Document(
+    page_content="Students' mental health is being prioritized as part of holistic education approaches in schools.",
+    metadata={
+        "Domain": "Education and Academia",
+        "Topic": "Student Health",
+        "Category": "Wellbeing",
+        "Published Date": "2023-09-30",
+        "Source": "Education Health Report",
+        "Author": "Andrew Thompson",
+        "Tags": ["Mental Health", "Education"],
+        "Keywords": ["student wellbeing", "holistic approaches"],
+        "Language": "English",
+        "Sentiment": "Concerned"
+    },
+    id=6
+)
+
+document_7 = Document(
+    page_content="Lifelong learning is emphasizing continuous skills upgrading in response to a rapidly changing job market.",
+    metadata={
+        "Domain": "Education and Academia",
+        "Topic": "Adult Education",
+        "Category": "Lifelong Learning",
+        "Published Date": "2023-10-04",
+        "Source": "Adult Learning News",
+        "Author": "Linda Gomez",
+        "Tags": ["Lifelong Learning", "Career Skills"],
+        "Keywords": ["skills upgrading", "job market"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=7
+)
+
+document_8 = Document(
+    page_content="The integration of gamification in education aims to increase student engagement and learning motivation.",
+    metadata={
+        "Domain": "Education and Academia",
+        "Topic": "Gamification",
+        "Category": "Student Engagement",
+        "Published Date": "2023-09-26",
+        "Source": "Education Games Review",
+        "Author": "Benjamin Turner",
+        "Tags": ["Gamification", "Motivation"],
+        "Keywords": ["education games", "student motivation"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=8
+)
+
+document_9 = Document(
+    page_content="New educational policies are being developed to address disparities in school funding.",
+    metadata={
+        "Domain": "Education and Academia",
+        "Topic": "Education Policy",
+        "Category": "Funding",
+        "Published Date": "2023-09-22",
+        "Source": "Policy Education Review",
+        "Author": "Andrew Thompson",
+        "Tags": ["Policy", "Funding"],
+        "Keywords": ["education policy", "school funding"],
+        "Language": "English",
+        "Sentiment": "Neutral"
+    },
+    id=9
+)
+
+document_10 = Document(
+    page_content="Digital literacy programs underscore their importance as part of curricula in educational institutions.",
+    metadata={
+        "Domain": "Education and Academia",
+        "Topic": "Digital Literacy",
+        "Category": "Curriculum",
+        "Published Date": "2023-10-06",
+        "Source": "Digital Education News",
+        "Author": "Linda Gomez",
+        "Tags": ["Digital Literacy", "Curriculum"],
+        "Keywords": ["digital skills", "education programs"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=10
+)
+
+document_11 = Document(
+    page_content="Online education platforms are enhancing accessibility to wide-ranging learning materials and expert instructors.",
+    metadata={
+        "Domain": "Education and Academia",
+        "Topic": "Online Education",
+        "Category": "Accessibility",
+        "Published Date": "2023-09-29",
+        "Source": "EdTech Access Journal",
+        "Author": "Benjamin Turner",
+        "Tags": ["Online Learning", "Access"],
+        "Keywords": ["education platforms", "learning access"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=11
+)
+
+document_12 = Document(
+    page_content="Bilingual education programs foster language skills and cultural appreciation among students.",
+    metadata={
+        "Domain": "Education and Academia",
+        "Topic": "Bilingual Education",
+        "Category": "Language Learning",
+        "Published Date": "2023-10-07",
+        "Source": "Language Education Review",
+        "Author": "Andrew Thompson",
+        "Tags": ["Bilingual", "Cultural Appreciation"],
+        "Keywords": ["language skills", "education"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=12
+)

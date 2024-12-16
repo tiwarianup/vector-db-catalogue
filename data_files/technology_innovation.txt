@@ -1,0 +1,220 @@
+document_1 = Document(
+    page_content="Quantum computing emerges as a transformative technology in solving complex mathematical problems.",
+    metadata={
+        "Domain": "Technology and Innovation",
+        "Topic": "Quantum Computing",
+        "Category": "Technology",
+        "Published Date": "2023-09-21",
+        "Source": "Tech Daily",
+        "Author": "Sophia Nguyen",
+        "Tags": ["Quantum", "Computing"],
+        "Keywords": ["quantum computing", "complex problems"],
+        "Language": "English",
+        "Sentiment": "Optimistic"
+    },
+    id=1
+)
+
+document_2 = Document(
+    page_content="Advancements in AI are reshaping healthcare with more accurate diagnostic tools and treatment.",
+    metadata={
+        "Domain": "Technology and Innovation",
+        "Topic": "Artificial Intelligence",
+        "Category": "Healthcare Innovation",
+        "Published Date": "2023-09-28",
+        "Source": "AI Health News",
+        "Author": "Carl White",
+        "Tags": ["AI", "Healthcare"],
+        "Keywords": ["AI advancements", "diagnostic tools"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=2
+)
+
+document_3 = Document(
+    page_content="The rise of blockchain technology is revolutionizing data security and financial transactions.",
+    metadata={
+        "Domain": "Technology and Innovation",
+        "Topic": "Blockchain",
+        "Category": "Data Security",
+        "Published Date": "2023-10-02",
+        "Source": "Blockchain Today",
+        "Author": "Amelia Reed",
+        "Tags": ["Blockchain", "Security"],
+        "Keywords": ["blockchain", "financial security"],
+        "Language": "English",
+        "Sentiment": "Optimistic"
+    },
+    id=3
+)
+
+document_4 = Document(
+    page_content="5G technology rollout improves connectivity, enabling faster and more reliable mobile services.",
+    metadata={
+        "Domain": "Technology and Innovation",
+        "Topic": "5G Technology",
+        "Category": "Connectivity",
+        "Published Date": "2023-09-30",
+        "Source": "Tech Insights",
+        "Author": "Sophia Nguyen",
+        "Tags": ["5G", "Connectivity"],
+        "Keywords": ["5G rollout", "mobile services"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=4
+)
+
+document_5 = Document(
+    page_content="Virtual reality is gaining traction in education, providing immersive learning experiences.",
+    metadata={
+        "Domain": "Technology and Innovation",
+        "Topic": "Virtual Reality",
+        "Category": "Education",
+        "Published Date": "2023-09-26",
+        "Source": "VR Education Journal",
+        "Author": "Carl White",
+        "Tags": ["VR", "Education"],
+        "Keywords": ["virtual reality", "immersive learning"],
+        "Language": "English",
+        "Sentiment": "Optimistic"
+    },
+    id=5
+)
+
+document_6 = Document(
+    page_content="Renewable energy technologies are developing to meet increasing global energy demands sustainably.",
+    metadata={
+        "Domain": "Technology and Innovation",
+        "Topic": "Renewable Energy",
+        "Category": "Sustainability",
+        "Published Date": "2023-09-29",
+        "Source": "Energy Innovations",
+        "Author": "Amelia Reed",
+        "Tags": ["Renewable Energy", "Sustainability"],
+        "Keywords": ["renewables", "energy demands"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=6
+)
+
+document_7 = Document(
+    page_content="Robotics advancements are diversifying into various industries, automating complex processes.",
+    metadata={
+        "Domain": "Technology and Innovation",
+        "Topic": "Robotics",
+        "Category": "Automation",
+        "Published Date": "2023-10-05",
+        "Source": "Robotics World",
+        "Author": "Sophia Nguyen",
+        "Tags": ["Robotics", "Automation"],
+        "Keywords": ["robotics", "industrial automation"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=7
+)
+
+document_8 = Document(
+    page_content="Wearable technology is becoming a cornerstone in personal health tracking and management.",
+    metadata={
+        "Domain": "Technology and Innovation",
+        "Topic": "Wearables",
+        "Category": "Health Tech",
+        "Published Date": "2023-09-24",
+        "Source": "Tech Health Reports",
+        "Author": "Carl White",
+        "Tags": ["Wearables", "Health Tracking"],
+        "Keywords": ["wearables", "personal health"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=8
+)
+
+document_9 = Document(
+    page_content="Internet of Things (IoT) expansion connects more devices, optimizing resource management.",
+    metadata={
+        "Domain": "Technology and Innovation",
+        "Topic": "IoT",
+        "Category": "Innovation",
+        "Published Date": "2023-10-06",
+        "Source": "IoT Innovation Journal",
+        "Author": "Amelia Reed",
+        "Tags": ["IoT", "Resource Management"],
+        "Keywords": ["IoT", "connected devices"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=9
+)
+
+document_10 = Document(
+    page_content="Cybersecurity evolves rapidly to protect against increasingly sophisticated digital threats.",
+    metadata={
+        "Domain": "Technology and Innovation",
+        "Topic": "Cybersecurity",
+        "Category": "Technology",
+        "Published Date": "2023-10-07",
+        "Source": "Cybersecurity Updates",
+        "Author": "Sophia Nguyen",
+        "Tags": ["Cybersecurity", "Digital Security"],
+        "Keywords": ["cybersecurity", "digital threats"],
+        "Language": "English",
+        "Sentiment": "Neutral"
+    },
+    id=10
+)
+
+document_11 = Document(
+    page_content="Biotechnology breakthroughs open new possibilities in medicine and treatment development.",
+    metadata={
+        "Domain": "Technology and Innovation",
+        "Topic": "Biotechnology",
+        "Category": "Medical Advances",
+        "Published Date": "2023-09-25",
+        "Source": "Biotech Innovations",
+        "Author": "Carl White",
+        "Tags": ["Biotechnology", "Medicine"],
+        "Keywords": ["biotech", "medical advances"],
+        "Language": "English",
+        "Sentiment": "Optimistic"
+    },
+    id=11
+)
+
+document_12 = Document(
+    page_content="Cloud computing services are transforming business operations, increasing flexibility and scalability.",
+    metadata={
+        "Domain": "Technology and Innovation",
+        "Topic": "Cloud Computing",
+        "Category": "Business Technology",
+        "Published Date": "2023-10-05",
+        "Source": "Business Tech Today",
+        "Author": "Amelia Reed",
+        "Tags": ["Cloud Computing", "Business"],
+        "Keywords": ["cloud services", "scalability"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=12
+)
+
+document_13 = Document(
+    page_content="Smart city technologies enhance urban living through efficient infrastructure and resource use.",
+    metadata={
+        "Domain": "Technology and Innovation",
+        "Topic": "Smart City",
+        "Category": "Urban Development",
+        "Published Date": "2023-09-30",
+        "Source": "Urban Tech Review",
+        "Author": "Sophia Nguyen",
+        "Tags": ["Smart City", "Infrastructure"],
+        "Keywords": ["smart city", "urban development"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=13
+)

@@ -1,0 +1,254 @@
+document_1 = Document(
+    page_content="E-commerce giants are expanding their logistics networks to meet increasing consumer demand for faster delivery.",
+    metadata={
+        "Domain": "Retail and E-commerce",
+        "Topic": "Logistics",
+        "Category": "Supply Chain",
+        "Published Date": "2023-09-18",
+        "Source": "Retail News Daily",
+        "Author": "Sophia Kim",
+        "Tags": ["E-commerce", "Logistics"],
+        "Keywords": ["consumer demand", "fast delivery"],
+        "Language": "English",
+        "Sentiment": "Neutral"
+    },
+    id=1
+)
+
+document_2 = Document(
+    page_content="The rise of mobile shopping apps is transforming how consumers engage with online shopping platforms.",
+    metadata={
+        "Domain": "Retail and E-commerce",
+        "Topic": "Mobile Shopping",
+        "Category": "Consumer Behavior",
+        "Published Date": "2023-10-02",
+        "Source": "Tech Retail Watch",
+        "Author": "John Lester",
+        "Tags": ["Mobile Apps", "Consumer Engagement"],
+        "Keywords": ["mobile shopping", "engagement"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=2
+)
+
+document_3 = Document(
+    page_content="Retailers are adopting augmented reality to offer customers virtual try-ons and enhance the shopping experience.",
+    metadata={
+        "Domain": "Retail and E-commerce",
+        "Topic": "Augmented Reality",
+        "Category": "Customer Experience",
+        "Published Date": "2023-09-26",
+        "Source": "Innovative Retailer",
+        "Author": "Emma Patel",
+        "Tags": ["AR", "Virtual Try-on"],
+        "Keywords": ["enhanced shopping", "augmented reality"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=3
+)
+
+document_4 = Document(
+    page_content="Sustainable shopping practices are becoming popular as consumers show increased interest in eco-friendly products.",
+    metadata={
+        "Domain": "Retail and E-commerce",
+        "Topic": "Sustainability",
+        "Category": "Consumer Trends",
+        "Published Date": "2023-09-30",
+        "Source": "Eco Retail Insights",
+        "Author": "Sophia Kim",
+        "Tags": ["Sustainability", "Eco-friendly"],
+        "Keywords": ["sustainable shopping", "eco trends"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=4
+)
+
+document_5 = Document(
+    page_content="The integration of AI in e-commerce is personalizing recommendations, enhancing customer satisfaction and sales.",
+    metadata={
+        "Domain": "Retail and E-commerce",
+        "Topic": "Artificial Intelligence",
+        "Category": "Personalization",
+        "Published Date": "2023-10-03",
+        "Source": "AI Retail Journal",
+        "Author": "Liam Green",
+        "Tags": ["AI", "Recommendations"],
+        "Keywords": ["personalized shopping", "customer satisfaction"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=5
+)
+
+document_6 = Document(
+    page_content="Flash sales and limited-time offers continue to drive e-commerce purchases, creating a sense of urgency.",
+    metadata={
+        "Domain": "Retail and E-commerce",
+        "Topic": "Sales Strategies",
+        "Category": "Marketing",
+        "Published Date": "2023-09-28",
+        "Source": "Marketing Today",
+        "Author": "Emma Patel",
+        "Tags": ["Sales", "Urgency"],
+        "Keywords": ["flash sales", "marketing strategies"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=6
+)
+
+document_7 = Document(
+    page_content="Social commerce is gaining momentum, with platforms integrating shopping features directly into social media.",
+    metadata={
+        "Domain": "Retail and E-commerce",
+        "Topic": "Social Commerce",
+        "Category": "Trends",
+        "Published Date": "2023-09-24",
+        "Source": "Social Retail Watch",
+        "Author": "John Lester",
+        "Tags": ["Social Media", "Commerce"],
+        "Keywords": ["social shopping", "platforms"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=7
+)
+
+document_8 = Document(
+    page_content="B2B e-commerce is evolving, focusing on improving efficiency and streamlining business transactions.",
+    metadata={
+        "Domain": "Retail and E-commerce",
+        "Topic": "B2B",
+        "Category": "Business Solutions",
+        "Published Date": "2023-09-21",
+        "Source": "B2B Innovations",
+        "Author": "Liam Green",
+        "Tags": ["B2B", "E-commerce"],
+        "Keywords": ["business efficiency", "transaction solutions"],
+        "Language": "English",
+        "Sentiment": "Neutral"
+    },
+    id=8
+)
+
+document_9 = Document(
+    page_content="E-commerce platforms are enhancing cybersecurity measures to protect consumers from online threats.",
+    metadata={
+        "Domain": "Retail and E-commerce",
+        "Topic": "Cybersecurity",
+        "Category": "Protection",
+        "Published Date": "2023-10-04",
+        "Source": "Cyber Retail News",
+        "Author": "Emma Patel",
+        "Tags": ["E-commerce", "Security"],
+        "Keywords": ["consumer protection", "online threats"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=9
+)
+
+document_10 = Document(
+    page_content="Data analytics are driving retail strategies, enabling personalized consumer experiences and more effective marketing.",
+    metadata={
+        "Domain": "Retail and E-commerce",
+        "Topic": "Data Analytics",
+        "Category": "Strategy",
+        "Published Date": "2023-10-05",
+        "Source": "Retail Analytics Digest",
+        "Author": "Sophia Kim",
+        "Tags": ["Data", "Strategy"],
+        "Keywords": ["analytics", "personalized marketing"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=10
+)
+
+document_11 = Document(
+    page_content="Retailers embracing omnichannel strategies are finding success in integrating physical and digital shopping experiences.",
+    metadata={
+        "Domain": "Retail and E-commerce",
+        "Topic": "Omnichannel",
+        "Category": "Integration",
+        "Published Date": "2023-09-26",
+        "Source": "OmniRetail Insights",
+        "Author": "John Lester",
+        "Tags": ["Omnichannel", "Integration"],
+        "Keywords": ["retail strategy", "digital integration"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=11
+)
+
+document_12 = Document(
+    page_content="VR in retail is creating immersive shopping experiences, revolutionizing how customers interact with brands.",
+    metadata={
+        "Domain": "Retail and E-commerce",
+        "Topic": "Virtual Reality",
+        "Category": "Innovation",
+        "Published Date": "2023-09-30",
+        "Source": "VR Retail Magazine",
+        "Author": "Liam Green",
+        "Tags": ["VR", "Retail"],
+        "Keywords": ["immersive shopping", "brand interaction"],
+        "Language": "English",
+        "Sentiment": "Excited"
+    },
+    id=12
+)
+
+document_13 = Document(
+    page_content="The increasing importance of ethical sourcing in e-commerce is shaping consumer purchasing decisions.",
+    metadata={
+        "Domain": "Retail and E-commerce",
+        "Topic": "Ethical Sourcing",
+        "Category": "Consumer Trends",
+        "Published Date": "2023-10-06",
+        "Source": "Ethical Commerce Journal",
+        "Author": "Emma Patel",
+        "Tags": ["Ethics", "Sourcing"],
+        "Keywords": ["ethical sourcing", "consumer behavior"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=13
+)
+
+document_14 = Document(
+    page_content="The rise of subscription box services is providing consumers with new ways to discover and enjoy products regularly.",
+    metadata={
+        "Domain": "Retail and E-commerce",
+        "Topic": "Subscription Services",
+        "Category": "Innovation",
+        "Published Date": "2023-10-02",
+        "Source": "Retail Subscription News",
+        "Author": "Sophia Kim",
+        "Tags": ["Subscription", "Discovery"],
+        "Keywords": ["subscriptions", "consumer experience"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=14
+)
+
+document_15 = Document(
+    page_content="Cross-border e-commerce is expanding, breaking down international trade barriers and enhancing consumer access to global markets.",
+    metadata={
+        "Domain": "Retail and E-commerce",
+        "Topic": "Cross-Border",
+        "Category": "Global Market",
+        "Published Date": "2023-09-24",
+        "Source": "Global Retail Insights",
+        "Author": "John Lester",
+        "Tags": ["International", "Trade"],
+        "Keywords": ["global e-commerce", "trade barriers"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=15
+)

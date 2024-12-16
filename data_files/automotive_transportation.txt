@@ -1,0 +1,169 @@
+document_1 = Document(
+    page_content="Electric vehicles (EVs) continue to gain popularity as new models improve in range and affordability.",
+    metadata={
+        "Domain": "Automotive and Transportation",
+        "Topic": "Electric Vehicles",
+        "Category": "Market Trends",
+        "Published Date": "2023-09-29",
+        "Source": "Automotive News",
+        "Author": "James Oliver",
+        "Tags": ["EVs", "Affordability"],
+        "Keywords": ["electric cars", "range improvement"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=1
+)
+
+document_2 = Document(
+    page_content="Innovative public transit solutions are reducing congestion and improving urban air quality in major cities.",
+    metadata={
+        "Domain": "Automotive and Transportation",
+        "Topic": "Public Transit",
+        "Category": "Urban Planning",
+        "Published Date": "2023-09-30",
+        "Source": "City Transit Report",
+        "Author": "Natalie Green",
+        "Tags": ["Public Transit", "Urban Air Quality"],
+        "Keywords": ["congestion reduction", "urban transit"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=2
+)
+
+document_3 = Document(
+    page_content="New car safety features are being developed leveraging AI to prevent collisions and enhance driver assistance.",
+    metadata={
+        "Domain": "Automotive and Transportation",
+        "Topic": "Safety",
+        "Category": "Technology",
+        "Published Date": "2023-10-01",
+        "Source": "Tech in Autos Journal",
+        "Author": "Tom Baker",
+        "Tags": ["Safety", "AI"],
+        "Keywords": ["collision prevention", "driver assistance"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=3
+)
+
+document_4 = Document(
+    page_content="Autonomous vehicles are facing regulatory hurdles as authorities work on safety standards.",
+    metadata={
+        "Domain": "Automotive and Transportation",
+        "Topic": "Autonomous Vehicles",
+        "Category": "Regulations",
+        "Published Date": "2023-09-23",
+        "Source": "Auto Regulations Daily",
+        "Author": "James Oliver",
+        "Tags": ["Autonomous Vehicles", "Regulations"],
+        "Keywords": ["autonomous cars", "safety standards"],
+        "Language": "English",
+        "Sentiment": "Neutral"
+    },
+    id=4
+)
+
+document_5 = Document(
+    page_content="Bike-sharing programs are expanding globally, offering sustainable transportation in urban areas.",
+    metadata={
+        "Domain": "Automotive and Transportation",
+        "Topic": "Bike Sharing",
+        "Category": "Sustainability",
+        "Published Date": "2023-09-25",
+        "Source": "Cycle News Network",
+        "Author": "Natalie Green",
+        "Tags": ["Bike Sharing", "Urban Transport"],
+        "Keywords": ["sustainable transport", "bike programs"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=5
+)
+
+document_6 = Document(
+    page_content="The future of hybrid cars includes enhanced fuel efficiency and reduced emissions.",
+    metadata={
+        "Domain": "Automotive and Transportation",
+        "Topic": "Hybrid Vehicles",
+        "Category": "Innovation",
+        "Published Date": "2023-09-28",
+        "Source": "Hybrid Vehicle Times",
+        "Author": "Tom Baker",
+        "Tags": ["Hybrid Cars", "Efficiency"],
+        "Keywords": ["fuel efficiency", "emissions reduction"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=6
+)
+
+document_7 = Document(
+    page_content="Advancements in hydrogen fuel technology promise a cleaner alternative for long-distance transportation.",
+    metadata={
+        "Domain": "Automotive and Transportation",
+        "Topic": "Hydrogen Technology",
+        "Category": "Clean Energy",
+        "Published Date": "2023-10-02",
+        "Source": "Fuel Cell News",
+        "Author": "James Oliver",
+        "Tags": ["Hydrogen", "Clean Energy"],
+        "Keywords": ["hydrogen fuel", "long-distance transport"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=7
+)
+
+document_8 = Document(
+    page_content="New car subscription services are offering flexible vehicle access without the burden of ownership.",
+    metadata={
+        "Domain": "Automotive and Transportation",
+        "Topic": "Car Subscriptions",
+        "Category": "Service Models",
+        "Published Date": "2023-09-27",
+        "Source": "Auto Business Journal",
+        "Author": "Natalie Green",
+        "Tags": ["Car Subscriptions", "Service Innovations"],
+        "Keywords": ["flexible vehicle access", "ownership alternatives"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=8
+)
+
+document_9 = Document(
+    page_content="The rise of shared autonomous shuttles is reshaping last-mile transportation in urban areas.",
+    metadata={
+        "Domain": "Automotive and Transportation",
+        "Topic": "Shared Mobility",
+        "Category": "Urban Transport",
+        "Published Date": "2023-09-22",
+        "Source": "Shared Transport Digest",
+        "Author": "Tom Baker",
+        "Tags": ["Autonomous Shuttles", "Mobility"],
+        "Keywords": ["shared transport", "autonomous vehicles"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=9
+)
+
+document_10 = Document(
+    page_content="Improvements in freight logistics technology are enhancing efficiency in global goods transportation.",
+    metadata={
+        "Domain": "Automotive and Transportation",
+        "Topic": "Freight",
+        "Category": "Logistics",
+        "Published Date": "2023-10-03",
+        "Source": "Freight News Today",
+        "Author": "James Oliver",
+        "Tags": ["Freight Logistics", "Global Transport"],
+        "Keywords": ["logistics technology", "efficiency"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=10
+)

@@ -1,0 +1,254 @@
+document_1 = Document(
+    page_content="A recent study found daily jogging significantly reduces the risk of cardiovascular disease in adults.",
+    metadata={
+        "Domain": "Healthcare and Medicine",
+        "Topic": "Cardiovascular Diseases",
+        "Category": "Preventive Healthcare",
+        "Published Date": "2023-10-02",
+        "Source": "Journal of Medicine",
+        "Author": "Dr. Emily Sanders",
+        "Tags": ["Health", "Exercise"],
+        "Keywords": ["heart disease", "jogging", "prevention"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=1
+)
+
+document_2 = Document(
+    page_content="Innovative AI technology is now assisting doctors in diagnosing complex medical conditions quicker than before.",
+    metadata={
+        "Domain": "Healthcare and Medicine",
+        "Topic": "Medical Technology",
+        "Category": "Innovation",
+        "Published Date": "2023-09-28",
+        "Source": "HealthTech News",
+        "Author": "Alex Johnson",
+        "Tags": ["AI", "Diagnosis"],
+        "Keywords": ["innovation", "technology", "medical diagnosis"],
+        "Language": "English",
+        "Sentiment": "Neutral"
+    },
+    id=2
+)
+
+document_3 = Document(
+    page_content="Researchers have identified a compound in blueberries that may improve memory in older adults.",
+    metadata={
+        "Domain": "Healthcare and Medicine",
+        "Topic": "Nutrition",
+        "Category": "Research",
+        "Published Date": "2023-10-05",
+        "Source": "Nutrition Weekly",
+        "Author": "Samantha Lee",
+        "Tags": ["Research", "Memory"],
+        "Keywords": ["blueberries", "memory", "older adults"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=3
+)
+
+document_4 = Document(
+    page_content="Telehealth services continue to rise in popularity, providing greater access to rural and underserved areas.",
+    metadata={
+        "Domain": "Healthcare and Medicine",
+        "Topic": "Telehealth",
+        "Category": "Access",
+        "Published Date": "2023-09-15",
+        "Source": "Health News Daily",
+        "Author": "Dr. Chris Miller",
+        "Tags": ["Telehealth", "Accessibility"],
+        "Keywords": ["digital health", "access", "rural"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=4
+)
+
+document_5 = Document(
+    page_content="Vitamin D deficiency remains a widespread issue, especially in regions with limited sunlight during winter.",
+    metadata={
+        "Domain": "Healthcare and Medicine",
+        "Topic": "Vitamins",
+        "Category": "Deficiency",
+        "Published Date": "2023-10-07",
+        "Source": "Medical Journal Review",
+        "Author": "Dr. Emily Sanders",
+        "Tags": ["Vitamin D", "Health Risks"],
+        "Keywords": ["deficiency", "health", "winter"],
+        "Language": "English",
+        "Sentiment": "Concerned"
+    },
+    id=5
+)
+
+document_6 = Document(
+    page_content="Exercise not only improves physical wellbeing but also has profound benefits for mental health.",
+    metadata={
+        "Domain": "Healthcare and Medicine",
+        "Topic": "Mental Health",
+        "Category": "Benefits of Exercise",
+        "Published Date": "2023-09-30",
+        "Source": "Wellness Daily",
+        "Author": "Alex Johnson",
+        "Tags": ["Exercise", "Mental Health"],
+        "Keywords": ["exercise benefits", "mental health", "wellbeing"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=6
+)
+
+document_7 = Document(
+    page_content="Childhood obesity rates continue to climb, prompting a call for wider public health interventions.",
+    metadata={
+        "Domain": "Healthcare and Medicine",
+        "Topic": "Obesity",
+        "Category": "Public Health",
+        "Published Date": "2023-10-08",
+        "Source": "Health Policy News",
+        "Author": "Samantha Lee",
+        "Tags": ["Public Health", "Obesity"],
+        "Keywords": ["childhood obesity", "health interventions"],
+        "Language": "English",
+        "Sentiment": "Concerned"
+    },
+    id=7
+)
+
+document_8 = Document(
+    page_content="A new breakthrough drug for combating Alzheimer’s disease could improve the quality of life for many patients.",
+    metadata={
+        "Domain": "Healthcare and Medicine",
+        "Topic": "Alzheimer’s Disease",
+        "Category": "Treatment",
+        "Published Date": "2023-09-25",
+        "Source": "Pharma News",
+        "Author": "Dr. Chris Miller",
+        "Tags": ["Alzheimer’s", "Treatment"],
+        "Keywords": ["breakthrough", "drug", "patient care"],
+        "Language": "English",
+        "Sentiment": "Optimistic"
+    },
+    id=8
+)
+
+document_9 = Document(
+    page_content="Healthcare costs rise again, prompting calls for reform and policy changes to ease the burden on families.",
+    metadata={
+        "Domain": "Healthcare and Medicine",
+        "Topic": "Healthcare Costs",
+        "Category": "Policy",
+        "Published Date": "2023-10-01",
+        "Source": "Policy Review",
+        "Author": "Alex Johnson",
+        "Tags": ["Healthcare", "Policy"],
+        "Keywords": ["reform", "healthcare costs", "policy change"],
+        "Language": "English",
+        "Sentiment": "Concerned"
+    },
+    id=9
+)
+
+document_10 = Document(
+    page_content="Adopting a plant-based diet may significantly reduce one's risk of developing chronic illnesses.",
+    metadata={
+        "Domain": "Healthcare and Medicine",
+        "Topic": "Diet",
+        "Category": "Preventive Strategies",
+        "Published Date": "2023-09-18",
+        "Source": "Health Magazine",
+        "Author": "Samantha Lee",
+        "Tags": ["Diet", "Chronic Illness"],
+        "Keywords": ["plant-based diet", "health prevention", "chronic disease"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=10
+)
+
+document_11 = Document(
+    page_content="Latest findings indicate that probiotics support gut health and could strengthen the immune system.",
+    metadata={
+        "Domain": "Healthcare and Medicine",
+        "Topic": "Gut Health",
+        "Category": "Research",
+        "Published Date": "2023-09-20",
+        "Source": "Gut Health Today",
+        "Author": "Dr. Emily Sanders",
+        "Tags": ["Probiotics", "Immune System"],
+        "Keywords": ["gut health", "probiotics", "immune support"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=11
+)
+
+document_12 = Document(
+    page_content="The influence of climate change on the spread of vector-borne diseases is an emerging concern.",
+    metadata={
+        "Domain": "Healthcare and Medicine",
+        "Topic": "Infectious Diseases",
+        "Category": "Environmental Impact",
+        "Published Date": "2023-10-04",
+        "Source": "Environmental Health Digest",
+        "Author": "Alex Johnson",
+        "Tags": ["Climate Change", "Disease Spread"],
+        "Keywords": ["vector-borne diseases", "climate impact"],
+        "Language": "English",
+        "Sentiment": "Concerned"
+    },
+    id=12
+)
+
+document_13 = Document(
+    page_content="Mindfulness meditation is found to lower stress levels and enhance overall mental clarity.",
+    metadata={
+        "Domain": "Healthcare and Medicine",
+        "Topic": "Mental Health",
+        "Category": "Mindfulness",
+        "Published Date": "2023-10-02",
+        "Source": "Calm Mind Journal",
+        "Author": "Samantha Lee",
+        "Tags": ["Mindfulness", "Mental Clarity"],
+        "Keywords": ["meditation", "stress reduction", "mental health"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=13
+)
+
+document_14 = Document(
+    page_content="Heart health guidelines emphasized the importance of routine screenings and lifestyle modifications.",
+    metadata={
+        "Domain": "Healthcare and Medicine",
+        "Topic": "Heart Health",
+        "Category": "Guidelines",
+        "Published Date": "2023-09-30",
+        "Source": "Heart Health Monitor",
+        "Author": "Dr. Chris Miller",
+        "Tags": ["Screening", "Lifestyle"],
+        "Keywords": ["heart screening", "lifestyle change", "heart health"],
+        "Language": "English",
+        "Sentiment": "Neutral"
+    },
+    id=14
+)
+
+document_15 = Document(
+    page_content="Public initiatives to lower childhood obesity rates are gaining momentum with promising results.",
+    metadata={
+        "Domain": "Healthcare and Medicine",
+        "Topic": "Public Health",
+        "Category": "Childhood Obesity",
+        "Published Date": "2023-09-24",
+        "Source": "Public Health Review",
+        "Author": "Dr. Emily Sanders",
+        "Tags": ["Public Initiatives", "Obesity"],
+        "Keywords": ["childhood obesity", "public health"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=15
+)

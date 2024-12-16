@@ -1,0 +1,186 @@
+document_1 = Document(
+    page_content="The latest climate report reveals a rapid increase in global temperatures, stressing urgent action.",
+    metadata={
+        "Domain": "Environment and Sustainability",
+        "Topic": "Climate Change",
+        "Category": "Global Warming",
+        "Published Date": "2023-10-03",
+        "Source": "Climate News Network",
+        "Author": "Laura Chang",
+        "Tags": ["Climate Change", "Global Warming"],
+        "Keywords": ["temperature rise", "climate report"],
+        "Language": "English",
+        "Sentiment": "Concerned"
+    },
+    id=1
+)
+
+document_2 = Document(
+    page_content="Sustainable agriculture practices are key to reducing environmental impact while boosting crop yield.",
+    metadata={
+        "Domain": "Environment and Sustainability",
+        "Topic": "Sustainable Agriculture",
+        "Category": "Practices",
+        "Published Date": "2023-10-01",
+        "Source": "Eco Farming Journal",
+        "Author": "David Smith",
+        "Tags": ["Agriculture", "Sustainability"],
+        "Keywords": ["sustainable farming", "environmental impact"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=2
+)
+
+document_3 = Document(
+    page_content="Innovative renewable energy projects are being implemented to replace fossil fuels and reduce emissions.",
+    metadata={
+        "Domain": "Environment and Sustainability",
+        "Topic": "Renewable Energy",
+        "Category": "Innovation",
+        "Published Date": "2023-09-30",
+        "Source": "Green Tech Digest",
+        "Author": "Emily Reynolds",
+        "Tags": ["Renewables", "Innovation"],
+        "Keywords": ["renewable energy", "fossil fuels"],
+        "Language": "English",
+        "Sentiment": "Optimistic"
+    },
+    id=3
+)
+
+document_4 = Document(
+    page_content="Our oceans are facing unprecedented levels of pollution, harming marine biodiversity significantly.",
+    metadata={
+        "Domain": "Environment and Sustainability",
+        "Topic": "Marine Pollution",
+        "Category": "Biodiversity Loss",
+        "Published Date": "2023-09-27",
+        "Source": "Marine Environment News",
+        "Author": "Laura Chang",
+        "Tags": ["Pollution", "Marine Biodiversity"],
+        "Keywords": ["ocean pollution", "biodiversity"],
+        "Language": "English",
+        "Sentiment": "Alarmed"
+    },
+    id=4
+)
+
+document_5 = Document(
+    page_content="Community-driven recycling initiatives show substantial reduction in local waste production.",
+    metadata={
+        "Domain": "Environment and Sustainability",
+        "Topic": "Recycling",
+        "Category": "Community Initiatives",
+        "Published Date": "2023-10-04",
+        "Source": "Eco Community Journal",
+        "Author": "David Smith",
+        "Tags": ["Recycling", "Waste Management"],
+        "Keywords": ["community recycling", "waste reduction"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=5
+)
+
+document_6 = Document(
+    page_content="Deforestation rates are declining in regions that adopt reforestation and conservation strategies.",
+    metadata={
+        "Domain": "Environment and Sustainability",
+        "Topic": "Deforestation",
+        "Category": "Conservation",
+        "Published Date": "2023-09-25",
+        "Source": "Conservation News",
+        "Author": "Emily Reynolds",
+        "Tags": ["Deforestation", "Conservation"],
+        "Keywords": ["deforestation", "reforestation"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=6
+)
+
+document_7 = Document(
+    page_content="Electric vehicle adoption is accelerating, promising a significant decrease in transportation emissions.",
+    metadata={
+        "Domain": "Environment and Sustainability",
+        "Topic": "Electric Vehicles",
+        "Category": "Transportation",
+        "Published Date": "2023-09-28",
+        "Source": "Eco Transport Review",
+        "Author": "Laura Chang",
+        "Tags": ["EVs", "Emissions Reduction"],
+        "Keywords": ["electric vehicles", "transport emissions"],
+        "Language": "English",
+        "Sentiment": "Optimistic"
+    },
+    id=7
+)
+
+document_8 = Document(
+    page_content="Innovative water conservation techniques are being developed to address global water scarcity issues.",
+    metadata={
+        "Domain": "Environment and Sustainability",
+        "Topic": "Water Conservation",
+        "Category": "Resource Management",
+        "Published Date": "2023-09-21",
+        "Source": "Water Management News",
+        "Author": "David Smith",
+        "Tags": ["Water Conservation", "Scarcity"],
+        "Keywords": ["water conservation", "scarcity solutions"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=8
+)
+
+document_9 = Document(
+    page_content="Eco-tourism practices are encouraging sustainable travel and contributing to local economies.",
+    metadata={
+        "Domain": "Environment and Sustainability",
+        "Topic": "Eco-tourism",
+        "Category": "Travel",
+        "Published Date": "2023-10-05",
+        "Source": "Green Travel Review",
+        "Author": "Emily Reynolds",
+        "Tags": ["Eco-tourism", "Sustainability"],
+        "Keywords": ["sustainable travel", "local economy"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=9
+)
+
+document_10 = Document(
+    page_content="Cities investing in green infrastructure are seeing improvements in urban resilience and quality of life.",
+    metadata={
+        "Domain": "Environment and Sustainability",
+        "Topic": "Urban Development",
+        "Category": "Green Infrastructure",
+        "Published Date": "2023-09-24",
+        "Source": "Urban Green News",
+        "Author": "Laura Chang",
+        "Tags": ["Urban Development", "Quality of Life"],
+        "Keywords": ["green infrastructure", "urban resilience"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=10
+)
+
+document_11 = Document(
+    page_content="Strategies for reducing plastic consumption are gaining traction among consumers and industries.",
+    metadata={
+        "Domain": "Environment and Sustainability",
+        "Topic": "Plastic Reduction",
+        "Category": "Waste Management",
+        "Published Date": "2023-10-06",
+        "Source": "Sustainable Living Digest",
+        "Author": "David Smith",
+        "Tags": ["Plastic", "Waste Management"],
+        "Keywords": ["plastic reduction", "consumer strategies"],
+        "Language": "English",
+        "Sentiment": "Optimistic"
+    },
+    id=11
+)

@@ -1,0 +1,169 @@
+document_1 = Document(
+    page_content="Local farmers adopt sustainable practices to improve crop yield and soil health for future generations.",
+    metadata={
+        "Domain": "Agriculture and Food Industry",
+        "Topic": "Farming",
+        "Category": "Sustainability",
+        "Published Date": "2023-10-03",
+        "Source": "Agri News Today",
+        "Author": "Olivia Wright",
+        "Tags": ["Farming", "Sustainability"],
+        "Keywords": ["sustainable farming", "crop yield"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=1
+)
+
+document_2 = Document(
+    page_content="Technological innovations in precision agriculture are optimizing resource use and boosting efficiency.",
+    metadata={
+        "Domain": "Agriculture and Food Industry",
+        "Topic": "Precision Agriculture",
+        "Category": "Technology",
+        "Published Date": "2023-09-29",
+        "Source": "Tech in Ag Journal",
+        "Author": "Mark Chen",
+        "Tags": ["Technology", "Efficiency"],
+        "Keywords": ["precision farming", "resource optimization"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=2
+)
+
+document_3 = Document(
+    page_content="Organic farming methods increase in popularity as consumer demand for organic food grows.",
+    metadata={
+        "Domain": "Agriculture and Food Industry",
+        "Topic": "Organic Farming",
+        "Category": "Consumer Trends",
+        "Published Date": "2023-09-26",
+        "Source": "Organic Farming Daily",
+        "Author": "Samantha Price",
+        "Tags": ["Organic", "Consumer Demand"],
+        "Keywords": ["organic farming", "food trends"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=3
+)
+
+document_4 = Document(
+    page_content="The rise of plant-based food products is transforming the traditional meat and dairy industries.",
+    metadata={
+        "Domain": "Agriculture and Food Industry",
+        "Topic": "Plant-Based Foods",
+        "Category": "Food Industry",
+        "Published Date": "2023-10-01",
+        "Source": "Food Trend Review",
+        "Author": "Mike Long",
+        "Tags": ["Plant-Based", "Food Innovation"],
+        "Keywords": ["meat alternatives", "dairy substitutes"],
+        "Language": "English",
+        "Sentiment": "Optimistic"
+    },
+    id=4
+)
+
+document_5 = Document(
+    page_content="Drought-resistant crop varieties are developed to sustain agricultural productivity amid climate challenges.",
+    metadata={
+        "Domain": "Agriculture and Food Industry",
+        "Topic": "Crop Science",
+        "Category": "Innovation",
+        "Published Date": "2023-09-28",
+        "Source": "Ag Science Digest",
+        "Author": "Olivia Wright",
+        "Tags": ["Crop Science", "Climate"],
+        "Keywords": ["drought resistance", "agricultural innovation"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=5
+)
+
+document_6 = Document(
+    page_content="Agroecology practices are promoting biodiversity and ecological sustainability in farming systems.",
+    metadata={
+        "Domain": "Agriculture and Food Industry",
+        "Topic": "Agroecology",
+        "Category": "Ecology",
+        "Published Date": "2023-09-30",
+        "Source": "Eco Farming Review",
+        "Author": "Mark Chen",
+        "Tags": ["Agroecology", "Biodiversity"],
+        "Keywords": ["farming systems", "ecological sustainability"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=6
+)
+
+document_7 = Document(
+    page_content="Vertical farming techniques are providing fresh food solutions in urban environments worldwide.",
+    metadata={
+        "Domain": "Agriculture and Food Industry",
+        "Topic": "Vertical Farming",
+        "Category": "Urban Agriculture",
+        "Published Date": "2023-09-25",
+        "Source": "Urban Agri News",
+        "Author": "Samantha Price",
+        "Tags": ["Vertical Farming", "Urban Solutions"],
+        "Keywords": ["fresh food", "urban farming"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=7
+)
+
+document_8 = Document(
+    page_content="The global food logistics industry is leveraging AI to enhance supply chain efficiency and reduce waste.",
+    metadata={
+        "Domain": "Agriculture and Food Industry",
+        "Topic": "Food Logistics",
+        "Category": "Technology",
+        "Published Date": "2023-09-22",
+        "Source": "Logistics and Food",
+        "Author": "Mike Long",
+        "Tags": ["Food Logistics", "AI"],
+        "Keywords": ["supply chain", "efficiency"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=8
+)
+
+document_9 = Document(
+    page_content="Consumer interest in local foods is driving farmers' markets and community-supported agriculture.",
+    metadata={
+        "Domain": "Agriculture and Food Industry",
+        "Topic": "Local Foods",
+        "Category": "Community",
+        "Published Date": "2023-09-27",
+        "Source": "Local Food News",
+        "Author": "Olivia Wright",
+        "Tags": ["Local Foods", "Community Markets"],
+        "Keywords": ["farmers' markets", "local produce"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=9
+)
+
+document_10 = Document(
+    page_content="Food safety protocols are becoming increasingly important in the prevention of foodborne illnesses.",
+    metadata={
+        "Domain": "Agriculture and Food Industry",
+        "Topic": "Food Safety",
+        "Category": "Health",
+        "Published Date": "2023-09-24",
+        "Source": "Food Safety Journal",
+        "Author": "Samantha Price",
+        "Tags": ["Food Safety", "Health"],
+        "Keywords": ["safety protocols", "foodborne illnesses"],
+        "Language": "English",
+        "Sentiment": "Concerned"
+    },
+    id=10
+)

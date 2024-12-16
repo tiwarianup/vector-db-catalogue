@@ -1,0 +1,169 @@
+document_1 = Document(
+    page_content="The importance of stretching before workouts to prevent injuries and improve flexibility cannot be overstated.",
+    metadata={
+        "Domain": "Sports and Fitness",
+        "Topic": "Sports Health",
+        "Category": "Injury Prevention",
+        "Published Date": "2023-09-21",
+        "Source": "Fitness Health Journal",
+        "Author": "Jordan Lee",
+        "Tags": ["Stretching", "Injury Prevention"],
+        "Keywords": ["workout", "flexibility"],
+        "Language": "English",
+        "Sentiment": "Informative"
+    },
+    id=1
+)
+
+document_2 = Document(
+    page_content="Professional athletes discuss their personal training regimes and nutritional plans for optimal performance.",
+    metadata={
+        "Domain": "Sports and Fitness",
+        "Topic": "Athlete Training",
+        "Category": "Personal Regimes",
+        "Published Date": "2023-09-30",
+        "Source": "Athlete Insights Magazine",
+        "Author": "Melissa Carter",
+        "Tags": ["Athletes", "Training"],
+        "Keywords": ["training regimes", "nutrition"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=2
+)
+
+document_3 = Document(
+    page_content="Walking and cycling are increasingly popular as both fitness practices and sustainable transportation.",
+    metadata={
+        "Domain": "Sports and Fitness",
+        "Topic": "Fitness",
+        "Category": "Sustainability",
+        "Published Date": "2023-10-01",
+        "Source": "Active Living News",
+        "Author": "Casey Grant",
+        "Tags": ["Cycling", "Walking"],
+        "Keywords": ["fitness", "sustainability"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=3
+)
+
+document_4 = Document(
+    page_content="Recent research underscores the benefits of high-intensity interval training (HIIT) for cardiovascular health.",
+    metadata={
+        "Domain": "Sports and Fitness",
+        "Topic": "Cardiovascular Fitness",
+        "Category": "Research",
+        "Published Date": "2023-09-23",
+        "Source": "Health Science Reports",
+        "Author": "Jordan Lee",
+        "Tags": ["HIIT", "Cardiovascular Health"],
+        "Keywords": ["HIIT", "heart health"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=4
+)
+
+document_5 = Document(
+    page_content="Yoga and meditation practices are being integrated into athletic training for mental resilience.",
+    metadata={
+        "Domain": "Sports and Fitness",
+        "Topic": "Mental Health",
+        "Category": "Training Strategies",
+        "Published Date": "2023-09-28",
+        "Source": "Zen Athlete Journal",
+        "Author": "Melissa Carter",
+        "Tags": ["Yoga", "Meditation"],
+        "Keywords": ["mental resilience", "athletic training"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=5
+)
+
+document_6 = Document(
+    page_content="New nutrition guidelines for athletes focus on recovery and muscle-building through balanced diets.",
+    metadata={
+        "Domain": "Sports and Fitness",
+        "Topic": "Sports Nutrition",
+        "Category": "Guidelines",
+        "Published Date": "2023-09-25",
+        "Source": "Nutrition for Athletes",
+        "Author": "Casey Grant",
+        "Tags": ["Nutrition", "Recovery"],
+        "Keywords": ["nutrition guidelines", "muscle building"],
+        "Language": "English",
+        "Sentiment": "Informative"
+    },
+    id=6
+)
+
+document_7 = Document(
+    page_content="Virtual races and competitions gain popularity, providing new opportunities for community engagement.",
+    metadata={
+        "Domain": "Sports and Fitness",
+        "Topic": "Community Sports",
+        "Category": "Virtual Events",
+        "Published Date": "2023-10-02",
+        "Source": "Sports Community Review",
+        "Author": "Jordan Lee",
+        "Tags": ["Virtual Races", "Community"],
+        "Keywords": ["virtual events", "sports community"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=7
+)
+
+document_8 = Document(
+    page_content="Strength training benefits for older adults are highlighted through recent health studies.",
+    metadata={
+        "Domain": "Sports and Fitness",
+        "Topic": "Aging and Fitness",
+        "Category": "Research",
+        "Published Date": "2023-09-29",
+        "Source": "Health Aging Journal",
+        "Author": "Melissa Carter",
+        "Tags": ["Strength Training", "Older Adults"],
+        "Keywords": ["fitness for aging", "strength benefits"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=8
+)
+
+document_9 = Document(
+    page_content="The psychological benefits of team sports contribute significantly to youth development and social skills.",
+    metadata={
+        "Domain": "Sports and Fitness",
+        "Topic": "Youth Sports",
+        "Category": "Psychological Benefits",
+        "Published Date": "2023-09-26",
+        "Source": "Youth Sports Insight",
+        "Author": "Casey Grant",
+        "Tags": ["Team Sports", "Youth Development"],
+        "Keywords": ["psychological benefits", "youth sports"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=9
+)
+
+document_10 = Document(
+    page_content="Recent breakthroughs in wearable fitness technology are improving data accuracy in personal training.",
+    metadata={
+        "Domain": "Sports and Fitness",
+        "Topic": "Technology",
+        "Category": "Advancements",
+        "Published Date": "2023-10-05",
+        "Source": "Fitness Tech Trends",
+        "Author": "Jordan Lee",
+        "Tags": ["Wearable Tech", "Fitness"],
+        "Keywords": ["wearable tech", "training accuracy"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=10
+)

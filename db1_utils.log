@@ -1,0 +1,61 @@
+INFO:db1_utils:Starting db1_utils.py
+INFO:pinecone_plugin_interface.logging:Discovering subpackages in _NamespacePath(['C:\\Users\\anuptiwari\\.conda\\envs\\vectordb\\Lib\\site-packages\\pinecone_plugins'])
+INFO:pinecone_plugin_interface.logging:Looking for plugins in pinecone_plugins.inference
+INFO:pinecone_plugin_interface.logging:Installing plugin inference into Pinecone
+INFO:__main__:Starting main.py
+INFO:__main__:Running main function
+INFO:db1_utils:Index domain-index-pinecone-test created
+INFO:__main__:Pinecone index created
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:db1_utils:Added 10 documents to Pinecone index
+INFO:__main__:Added 10 documents to Pinecone index
+INFO:db1_utils:Starting db1_utils.py
+INFO:pinecone_plugin_interface.logging:Discovering subpackages in _NamespacePath(['C:\\Users\\anuptiwari\\.conda\\envs\\vectordb\\Lib\\site-packages\\pinecone_plugins'])
+INFO:pinecone_plugin_interface.logging:Looking for plugins in pinecone_plugins.inference
+INFO:pinecone_plugin_interface.logging:Installing plugin inference into Pinecone
+INFO:__main__:Starting main.py
+INFO:__main__:Running main function
+INFO:db1_utils:Index domain-pinecone-test-index created
+INFO:__main__:Pinecone index created
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:db1_utils:Added 10 documents to Pinecone index
+INFO:__main__:Added 10 documents to Pinecone index
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:db1_utils:Added 10 documents to Qdrant vector database
+INFO:__main__:Added 10 documents to Qdrant vector database
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:db1_utils:Created FAISS index
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:db1_utils:Added 12 documents to FAISS vector database
+INFO:db1_utils:Saved FAISS index to local:faiss_index
+INFO:__main__:Added 12 documents to FAISS vector database
+INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:db1_utils:Starting db1_utils.py
+INFO:pinecone_plugin_interface.logging:Discovering subpackages in _NamespacePath(['C:\\Users\\anuptiwari\\.conda\\envs\\vectordb\\Lib\\site-packages\\pinecone_plugins'])
+INFO:pinecone_plugin_interface.logging:Looking for plugins in pinecone_plugins.inference
+INFO:pinecone_plugin_interface.logging:Installing plugin inference into Pinecone
+INFO:__main__:Starting main.py
+INFO:__main__:Running main function
+INFO:db1_utils:Index domain-pinecone-db-index created
+INFO:__main__:Pinecone index created
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:db1_utils:Added 10 documents to Pinecone index
+INFO:__main__:Added 10 documents to Pinecone index
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:db1_utils:Added 10 documents to Qdrant vector database
+INFO:__main__:Added 10 documents to Qdrant vector database
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:db1_utils:Created FAISS index
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:db1_utils:Added 12 documents to FAISS vector database
+INFO:db1_utils:Saved FAISS index to local:faiss_index
+INFO:__main__:Added 12 documents to FAISS vector database
+INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO:httpx:HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+INFO:db1_utils:Added 11 documents to Chroma vector database
+INFO:__main__:Added 11 documents to Chroma vector database

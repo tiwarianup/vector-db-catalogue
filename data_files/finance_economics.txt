@@ -1,0 +1,186 @@
+document_1 = Document(
+    page_content="Interest rate hikes loom as inflation fears persist in the current economic climate.",
+    metadata={
+        "Domain": "Finance and Economics",
+        "Topic": "Monetary Policy",
+        "Category": "Interest Rates",
+        "Published Date": "2023-09-29",
+        "Source": "Economic Times",
+        "Author": "Jane Smith",
+        "Tags": ["Interest Rates", "Inflation"],
+        "Keywords": ["economy", "inflation", "interest hike"],
+        "Language": "English",
+        "Sentiment": "Concerned"
+    },
+    id=1
+)
+
+document_2 = Document(
+    page_content="Record-breaking quarterly profits are reported by leading tech companies amid high demand for digital services.",
+    metadata={
+        "Domain": "Finance and Economics",
+        "Topic": "Corporate Earnings",
+        "Category": "Technology",
+        "Published Date": "2023-09-30",
+        "Source": "Market Watcher",
+        "Author": "Michael Green",
+        "Tags": ["Earnings", "Tech"],
+        "Keywords": ["profits", "digital services", "tech industry"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=2
+)
+
+document_3 = Document(
+    page_content="The global cryptocurrency market experiences volatility amid regulatory changes in major economies.",
+    metadata={
+        "Domain": "Finance and Economics",
+        "Topic": "Cryptocurrency",
+        "Category": "Market Dynamics",
+        "Published Date": "2023-10-03",
+        "Source": "Crypto News",
+        "Author": "Lily Brown",
+        "Tags": ["Cryptocurrency", "Regulation"],
+        "Keywords": ["market volatility", "crypto regulation"],
+        "Language": "English",
+        "Sentiment": "Neutral"
+    },
+    id=3
+)
+
+document_4 = Document(
+    page_content="Housing market shows signs of cooling after a prolonged period of rapid price increases.",
+    metadata={
+        "Domain": "Finance and Economics",
+        "Topic": "Real Estate",
+        "Category": "Market Trends",
+        "Published Date": "2023-09-25",
+        "Source": "Real Estate Digest",
+        "Author": "Jane Smith",
+        "Tags": ["Housing", "Market Trends"],
+        "Keywords": ["housing market", "cooling trends"],
+        "Language": "English",
+        "Sentiment": "Neutral"
+    },
+    id=4
+)
+
+document_5 = Document(
+    page_content="Job creation rates surpass expectations, marking a robust economic recovery from the last recession.",
+    metadata={
+        "Domain": "Finance and Economics",
+        "Topic": "Labor Market",
+        "Category": "Job Growth",
+        "Published Date": "2023-10-06",
+        "Source": "Economic Outlook",
+        "Author": "Michael Green",
+        "Tags": ["Job Growth", "Recovery"],
+        "Keywords": ["employment", "economic recovery"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=5
+)
+
+document_6 = Document(
+    page_content="Increasing interest in sustainable investing drives shifts in financial markets worldwide.",
+    metadata={
+        "Domain": "Finance and Economics",
+        "Topic": "Sustainable Finance",
+        "Category": "Investment Trends",
+        "Published Date": "2023-09-20",
+        "Source": "Investment Journal",
+        "Author": "Lily Brown",
+        "Tags": ["Sustainable Investing", "Markets"],
+        "Keywords": ["investment trends", "sustainability"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=6
+)
+
+document_7 = Document(
+    page_content="Innovative fintech solutions are revolutionizing the financial sector, offering greater accessibility.",
+    metadata={
+        "Domain": "Finance and Economics",
+        "Topic": "Fintech",
+        "Category": "Innovation",
+        "Published Date": "2023-09-27",
+        "Source": "Fintech Review",
+        "Author": "Jane Smith",
+        "Tags": ["Innovation", "Fintech"],
+        "Keywords": ["fintech solutions", "financial innovation"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=7
+)
+
+document_8 = Document(
+    page_content="Major stock indices see renewed optimism after successful trade negotiations with international partners.",
+    metadata={
+        "Domain": "Finance and Economics",
+        "Topic": "Stock Market",
+        "Category": "Trade",
+        "Published Date": "2023-10-03",
+        "Source": "Financial Bulletin",
+        "Author": "Michael Green",
+        "Tags": ["Stock Market", "Trade Negotiations"],
+        "Keywords": ["stock market", "trade success"],
+        "Language": "English",
+        "Sentiment": "Positive"
+    },
+    id=8
+)
+
+document_9 = Document(
+    page_content="The impact of AI on the job market creates debates over future employment dynamics.",
+    metadata={
+        "Domain": "Finance and Economics",
+        "Topic": "Artificial Intelligence",
+        "Category": "Employment",
+        "Published Date": "2023-09-25",
+        "Source": "Tech Economics",
+        "Author": "Lily Brown",
+        "Tags": ["AI", "Employment"],
+        "Keywords": ["AI impact", "job market"],
+        "Language": "English",
+        "Sentiment": "Neutral"
+    },
+    id=9
+)
+
+document_10 = Document(
+    page_content="Global supply chain disruptions continue to challenge businesses across various industries.",
+    metadata={
+        "Domain": "Finance and Economics",
+        "Topic": "Supply Chain",
+        "Category": "Disruptions",
+        "Published Date": "2023-10-01",
+        "Source": "Business Insights",
+        "Author": "Jane Smith",
+        "Tags": ["Supply Chain", "Challenges"],
+        "Keywords": ["global disruptions", "business challenges"],
+        "Language": "English",
+        "Sentiment": "Concerned"
+    },
+    id=10
+)
+
+document_11 = Document(
+    page_content="Consumer spending patterns adapt as economic conditions and consumer behaviors evolve.",
+    metadata={
+        "Domain": "Finance and Economics",
+        "Topic": "Consumer Behavior",
+        "Category": "Economy",
+        "Published Date": "2023-10-04",
+        "Source": "Market Analysis",
+        "Author": "Michael Green",
+        "Tags": ["Consumer Behavior", "Economy"],
+        "Keywords": ["spending patterns", "economic change"],
+        "Language": "English",
+        "Sentiment": "Neutral"
+    },
+    id=11
+)
