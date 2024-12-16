@@ -82,9 +82,9 @@ class PineconeDatabaseConnector:
 # # Example usage
 # if __name__ == "__main__":
 #     connector = PineconeDatabaseConnector(
-#         api_key="pcsk_3tPPDr_KYj5t1P1CM6wgQeoFzj9bgGAvmRz6rkGvEoe93E2HoACMHy2NGaeYsD1NJXcwYS",
-#         environment="us-east-1",  # e.g. "us-west1-gcp"
-#         index_name="domain-pinecone-db-index"
+#         api_key="PINECONE_API_KEY",
+#         environment="REGION",  # e.g. "us-west1-gcp"
+#         index_name="INDEX_NAME"
 #     )
 #     connector.connect()
 #     metadata = connector.fetch_metadata()
